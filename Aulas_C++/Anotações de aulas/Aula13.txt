@@ -1,0 +1,40 @@
+#include <iostream>
+
+/*
+Aula013: Trabalhando com funções, parametros, return...
+*/
+
+using namespace std;
+
+void texto(){
+    cout << "Canal" << endl;
+}
+
+int main(){
+    texto();
+    return 0;
+}
+
+A função acima funciona de maneira normal pois declaramos a função texto acima da função main(), pois em C e C++ o compilador ler
+de cima pra baixo.
+
+
+Outra maneira de fazer funções em C++ está abaixo.
+
+#include <iostream>
+
+using namespace std;
+
+void texto(); // Aqui fica a prototipação da função, basicamente informamos apenas o cabeçário da função
+
+int main(){
+    texto();
+    return 0;
+}
+
+void texto(){
+    cout << "Canal" << endl;
+}
+
+
+Essa maneira acima é preciso prototipar (apresentar) a função antes do main() para poder funcionar
