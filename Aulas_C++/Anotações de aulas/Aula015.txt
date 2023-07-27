@@ -1,0 +1,5 @@
+Uma função recursiva é uma funçào que chama a si mesmo, tendo como principal função evitar o uso de laços, mas também tem sua consequência
+que é o quão custoso é para computador, já que se utiliza o processo de empilhamento na memória do computador, um exemplo disso é a uma função
+fatorial. se o usuário quiser saber um termo muito grande, já que nas entranhas do programa o computador faz diversos processos repetitivamente, sendo assim
+o programa não é performático.
+
