@@ -1,0 +1,1 @@
+Uma curiosidade sobre pulhas é que o último elemento a ser adicionado será o primeiro a ser retirado da pilha
