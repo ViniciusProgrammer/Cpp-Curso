@@ -1,0 +1,12 @@
+Métodos utilizados quando se trabalha com Filas no c++
+
+/*
+empty
+front
+back
+push
+pop
+size
+*/
+
+Basicamente temos aqui as pilhas em forma de filas, mesma lógica porém o primeiro elemento a entrar é o primeiro a sair diferentemente de pilhas
