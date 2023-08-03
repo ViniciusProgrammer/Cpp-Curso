@@ -1,0 +1,6 @@
+Com o Vector temos vetores(Arrays) e temos a implementaçào muito mais prática onde podemos ir adicionando elementos com ou sem a preocupação do tamanho
+Para permutarmos dois vetores por exemplo, utilizamos o método swap que ele automaticamente troca os valores de um vetor para o outro
+
+todo método usar-se parenteses
+
+Ex: num1.pop()
