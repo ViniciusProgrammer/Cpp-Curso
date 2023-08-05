@@ -28,7 +28,7 @@ void Aviao::ini(int tp){
         this -> velmax = 350;
         this -> tipo = "Monomotor";
     }
-    else{
+    else if(tp == 3){
         this -> velmax = 150;
         this -> tipo = "Planador";
     }
