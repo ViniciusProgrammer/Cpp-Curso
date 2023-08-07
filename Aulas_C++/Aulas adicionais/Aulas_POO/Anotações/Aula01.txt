@@ -1,0 +1,9 @@
+A classe precisa ser criada no cabeçalho, onde definimos ela, no arquvivo .h
+No vscode precisamos incluir o arquivos .cpp no cabeçalho do programa
+Uma boa prática de programação é colocar um arquivo como por exemplo
+
+ex:
+
+circle.h
+circle.cpp
+aula01.cpp
