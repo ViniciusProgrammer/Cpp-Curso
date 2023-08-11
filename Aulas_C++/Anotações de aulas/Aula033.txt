@@ -1,0 +1,1 @@
+O ifstream = Serve para a entrada de dados no arquivo fonte e joga para o sistema (windows), ou seja ler informações do arquivo

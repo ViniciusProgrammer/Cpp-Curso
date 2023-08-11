@@ -1,0 +1,1 @@
+O fstream serve  tanto para a entrada como para a saída de dados
